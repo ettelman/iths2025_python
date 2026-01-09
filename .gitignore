@@ -1,0 +1,23 @@
+# Python-kompilat
+*.py[cod]
+__pycache__/
+*.so
+
+# Virtuella miljöer
+env/
+venv/
+.venv/
+
+# Miljövariabler och hemligheter
+.env
+
+# Loggar
+*.log
+
+# IDE-filer (t.ex. VS Code)
+.vscode/
+
+# Paket/distributioner
+*.egg-info/
+dist/
+build/
