@@ -1,5 +1,6 @@
 // Compile ->
 // cl loader.c /Fe:loader.exe /O2 /MT user32.lib
+// cl loader.c
 #include <windows.h>
 #include <stdio.h>
 

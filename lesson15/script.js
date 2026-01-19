@@ -1,4 +1,5 @@
 let element = document.getElementById('heading')
+let element2 = document.querySelectorAll('.items')
 
 element.innerHTML = "Hej"
 

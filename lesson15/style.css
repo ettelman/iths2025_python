@@ -3,3 +3,9 @@ h1 {
     font-size: 48px;
     display: none;
 }
+.class {
+    color:red;
+}
+#id {
+    color:yellow
+}
